@@ -19,7 +19,7 @@ Input Data:
 
 - Multispectral Image (RGB, NIR, RED EDGE)
 - Vegetation Indexes (NDVI and NDRE)
-- FIve Haralick textural features (Energy, Entropy, Correlation, Inverse Difference Moment, Inertia )
-- 
+- Five Haralick textural features (Energy, Entropy, Correlation, Inverse Difference Moment, Inertia )
+
 Output Data:
 - Classified image in .tif format
